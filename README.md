@@ -1,4 +1,4 @@
-# Travel Agency Website
+# Travel Agency
 
 ![Last Commit](https://img.shields.io/github/last-commit/sarveshguru/travellagency) 
 ![Total Commits](https://img.shields.io/github/commit-activity/y/sarveshguru/travellagency)
@@ -9,7 +9,7 @@
 
 ## 📜 Project Description
 
-The **Travel Agency Website** provides a seamless platform for exploring travel packages, booking trips, and learning about the agency. It ensures a user-friendly experience with real-time interactions and responsive design.
+The **Travel Agency** provides a seamless platform for exploring travel packages, booking trips, and learning about the agency. It ensures a user-friendly experience with real-time interactions and responsive design.
 
 ### 🚀 Features
 
@@ -47,7 +47,7 @@ The **Travel Agency Website** provides a seamless platform for exploring travel 
 
 ### 🌐 Live Demo
 
-Check out the live demo: [Admin Dashboard](https://travel-agency158.infinityfreeapp.com)
+Check out the live demo: [Travel Agency](https://travel-agency158.infinityfreeapp.com)
 
 ### 🚀 Getting Started
 
