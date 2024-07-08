@@ -1,6 +1,5 @@
 # Travel Agency Website
 
-![Website](https://img.shields.io/website?url=https://travel-agency158.infinityfreeapp.com)
 ![Last Commit](https://img.shields.io/github/last-commit/sarveshguru/travellagency) 
 ![Total Commits](https://img.shields.io/github/commit-activity/y/sarveshguru/travellagency)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/sarveshguru/travellagency)
