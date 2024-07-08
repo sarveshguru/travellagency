@@ -36,17 +36,14 @@ The **Travel Agency Website** provides a seamless platform for exploring travel 
 
 | Home | About | Packages | Booking |
 |:---------:|:------------:|:---------------:|
-| ![Home](https://github.com/sarveshguru/travellagency/assets/72163818/cab56608-b730-43f7-b960-6de5f9b5f748) |
-| ![About](https://github.com/sarveshguru/travellagency/assets/72163818/e069bc60-4036-458e-9dc8-6e009a1a9240) |
-| ![Packages](https://github.com/sarveshguru/travellagency/assets/72163818/fb55bfee-3dc6-44a2-937b-f4f6d04ac5dd) |
-| ![booking](https://github.com/sarveshguru/travellagency/assets/72163818/440f4ab6-c791-48c0-940f-90baddf3b9b5) |
-
+| ![Home](https://github.com/sarveshguru/travellagency/assets/72163818/cab56608-b730-43f7-b960-6de5f9b5f748) | ![About](https://github.com/sarveshguru/travellagency/assets/72163818/e069bc60-4036-458e-9dc8-6e009a1a9240) | ![Packages](https://github.com/sarveshguru/travellagency/assets/72163818/fb55bfee-3dc6-44a2-937b-f4f6d04ac5dd) | ![booking](https://github.com/sarveshguru/travellagency/assets/72163818/440f4ab6-c791-48c0-940f-90baddf3b9b5) |
 
 ### 📱 Responsive Design
 
-| Desktop	Tablet |
+| Desktop Tablet Mobile |
 |:------------------:|
-| ![admin-dashboard](https://github.com/sarveshguru/Admin-Dashboard/assets/72163818/8c32f101-5144-49c9-8a62-5ad7f2b7ebb2) |
+| ![travel](https://github.com/sarveshguru/travellagency/assets/72163818/ade2cafe-0451-47d5-9e61-171709d0b2de) |
+
 
 ### 🌐 Live Demo
 
