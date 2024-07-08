@@ -35,7 +35,7 @@ The **Travel Agency Website** provides a seamless platform for exploring travel 
 ### 📷 Screenshots
 
 | Home | About | Packages | Booking |
-|:---------:|:------------:|:---------------:|
+|:---------:|:------------:|:---------------:|:---------------:|
 | ![Home](https://github.com/sarveshguru/travellagency/assets/72163818/cab56608-b730-43f7-b960-6de5f9b5f748) | ![About](https://github.com/sarveshguru/travellagency/assets/72163818/e069bc60-4036-458e-9dc8-6e009a1a9240) | ![Packages](https://github.com/sarveshguru/travellagency/assets/72163818/fb55bfee-3dc6-44a2-937b-f4f6d04ac5dd) | ![booking](https://github.com/sarveshguru/travellagency/assets/72163818/440f4ab6-c791-48c0-940f-90baddf3b9b5) |
 
 ### 📱 Responsive Design
